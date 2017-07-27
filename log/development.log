@@ -145,6 +145,7 @@ Completed 200 OK in 22ms (Views: 20.4ms)
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Started GET "/" for 127.0.0.1 at 2017-07-28 00:17:39 +0700
 Processing by ApplicationController#hello as HTML
   Rendering html template
