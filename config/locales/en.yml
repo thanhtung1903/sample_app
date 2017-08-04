@@ -30,4 +30,61 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  base_title: "Ruby on Rails Tutorial Sample App"
+  sample_app: "Sample App"
   hello: "Hello world"
+  Home: "Home"
+  Contact: "Contact"
+  Help: "Help"
+  About: "About"
+  ROB: "Ruby on Rails"
+  base_title: "The Ruby on Rails Tutorial Sample App"
+  static_pages:
+    to_teach_web_development_with: "to teach web development with"
+    screencast_series: "screencast series"
+    and: "and"
+    book: "book"
+    is_a: "is a"
+    sample_app: "sample app"
+    rails_tuts: "The Ruby on Rails Tutorial"
+    sample: "This is the sample application for the tutorial."
+    by: "by"
+    News: "News"
+    About: "About"
+    Contact: "Contact"
+    Help: "Help"
+    Home: "Home"
+    Login: "Log in"
+    Sign_up: "Sign up"
+    home:
+      sample_application: "sample application."
+    home:
+      welcome: "Welcome to the Sample App"
+      title: "This is the home page for the"
+      address: "Ruby on Rails Tutorial"
+    help:
+      address: "Get help on the Ruby on Rails Tutorial at the"
+      see_more: "To get help on this sample app, see the"
+      Rails_tutorial_help_section: "Rails Tutorial help section"
+    contact:
+      page: "contact page"
+      address: "Contact the Ruby on Rails Tutorial about the sample app at the"
+    title:
+      a: "Ruby on Rails Tutorial Sample App "
+    about:
+      book: "book"
+      and: "and"
+      screencast_series: "screencast series"
+      to_each: "to teach web development with"
+      rob: "Ruby on Rails"
+    new:
+      Users: "Users"
+      new: "new"
+      submit_acc: "Create my account"
+      name: "name"
+      email: "email"
+      password: "password"
+      msg_success: "Welcome to the Sample App!"
+  error:
+    error: "error"
+    user_not: "User is not vaild, please sign up!"
